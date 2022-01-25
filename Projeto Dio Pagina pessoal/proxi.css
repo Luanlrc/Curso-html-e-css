@@ -1,0 +1,64 @@
+body{
+    background: rgb(255, 255, 255);
+    font-family: verdana;
+    margin: auto;
+    
+}
+
+.foto {
+    border: solid black;
+    border-radius: 50%;
+    margin-left: 42%;
+}
+
+.fhtml {
+ margin: 0%;
+ width: 100%;
+}
+
+#title {
+    color: rgb(46, 46, 46);
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-left: 40%;
+}
+
+.postt {
+    color: rgb(46, 46, 46);
+    font-size: 16px;
+    font-style: italic;
+    margin-left: 45%;
+}
+
+
+
+.subtitle{
+    color: rgb(46, 46, 46);
+    margin-left: 47%
+  
+}
+
+.post{
+    background: white;
+    padding:  10px;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 2%;
+    margin-right: 20%;
+    margin-left: 20%;
+   
+}
+
+.conteudo{
+    margin: 0;
+  
+}
+
+.foto {
+    border: 3px solid rgb(46, 46, 46);
+ 
+}
+
+.pe {
+    list-style-type: "\1f44D";
+}
